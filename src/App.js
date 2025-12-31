@@ -88,7 +88,7 @@ function App() {
                 border: "1px solid #cbd5e1",
                 borderRadius: "6px",
                 fontSize: "1rem",
-                background: "#fff",
+                background: "#c75252ff",
               }}
               required
             />
